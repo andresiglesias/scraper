@@ -1,5 +1,3 @@
-== README
-
 Simple scraper using Ruby on Rails.
 
-Parse a webpage located in http://andresiglesias.net/scraper/dictionary.html and get the content of certain css classes.
+Parse a webpage located in http://andresiglesias.net/scraper/dictionary.html, get the content of certain css classes and then save it to a db.
